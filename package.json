@@ -1,6 +1,6 @@
 {
   "name": "akai-assets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Set of reusable AKAI assets.",
   "main": "index.js",
   "scripts": {
